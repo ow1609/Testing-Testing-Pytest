@@ -8,4 +8,3 @@ class Gratitudes:
     def format(self):
         formatted = "Be grateful for: "
         formatted += ", ".join(self.gratitudes)
-        return formatted
