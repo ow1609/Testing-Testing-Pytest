@@ -4,4 +4,4 @@ def check_codeword(codeword):
     elif codeword[0] == "h" and codeword[-1] == "e":
         return "Close, but nope."
     else:
-        return "WRONG!"
+        return "WRONG!" 
